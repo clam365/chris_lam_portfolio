@@ -188,7 +188,7 @@ section {
     font-weight: 600;
     font-size: 30px;
     min-width: 280px;
-    margin-bottom: 35px;
+    margin-bottom: 25px;
 }
 
 .animated-text span {
@@ -222,7 +222,7 @@ section {
         content: "Software Engineer.";
     }
     21%, 40% {
-        content: "AI & Computer Vision Specialist.";
+        content: "AI & Computer Vision.";
     }
     41%, 60% {
         content: "Web Developer.";
