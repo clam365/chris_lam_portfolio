@@ -188,6 +188,7 @@ section {
     font-weight: 600;
     font-size: 30px;
     min-width: 280px;
+    margin-bottom: 35px;
 }
 
 .animated-text span {
