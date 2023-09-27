@@ -188,7 +188,7 @@ section {
     font-weight: 600;
     font-size: 30px;
     min-width: 280px;
-    margin-bottom: 25px;
+    margin-bottom: 35px;
 }
 
 .animated-text span {
@@ -642,6 +642,22 @@ footer {
 footer p {
     text-align: center;
 }
+
+
+/* Section Reveal */
+
+.reveal{
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: 2s all ease;
+  }
+  .reveal.active{
+    transform: translateY(0);
+    opacity: 1;
+  }
+
+
 
 
 
