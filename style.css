@@ -672,10 +672,15 @@ footer p {
     transform: translateY(150px);
     opacity: 0;
     transition: 2s all ease;
+    background: transparent;
   }
   .reveal.active{
     transform: translateY(0);
     opacity: 1;
+  }
+
+  .nav-links-container {
+    background: transparent;
   }
 
 
