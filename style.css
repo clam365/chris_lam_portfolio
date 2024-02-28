@@ -544,6 +544,7 @@ h2 {
 
 .course-list li {
     background-color: white;
+    background: transparent;
 }
 
 .experience-type {
